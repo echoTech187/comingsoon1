@@ -56,7 +56,7 @@ export default function Home() {
 
             <div className="animation-container animation-fade-up" data-animation-delay="1200">
 
-              <p>© 2017 Optimal Penerbit | Design by <a href="https://optimaluntuknegri.id">Optimal</a></p>
+              <p>© 2025 Optimal Penerbit | Design by <a href="https://optimaluntuknegri.id">Optimal</a></p>
 
             </div>
 
